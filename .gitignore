@@ -25,3 +25,4 @@ Thumbs.db
 # Data files (optional - uncomment if needed)
 # data/*.csv
 # data/*.xlsx
+data/*.csv
