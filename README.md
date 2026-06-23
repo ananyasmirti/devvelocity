@@ -4,7 +4,6 @@ A data science and machine learning project for developer productivity modeling.
 
 ## Project Structure
 
-- `notebooks/` - Jupyter notebooks for exploration and analysis
 - `data/` - Datasets (CSV files should be added manually and are ignored by git)
 - `models/` - Saved trained models
 - `rbac_middleware.py` - RBAC logic for the MCP server
